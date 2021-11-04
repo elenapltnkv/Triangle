@@ -81,7 +81,7 @@ class TriangleTest{
     }
     @AfterEach
     void afterEach() {
-        System.out.println("Этот тест выполнен");
+        System.out.println("Этот тест точно выполнен");
     }
 
     @AfterAll
